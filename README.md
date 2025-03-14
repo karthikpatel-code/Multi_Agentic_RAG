@@ -50,7 +50,8 @@ The architecture consists of the following key components:
 
 ## Architecture Diagram
 
-![Multi Agentic RAG](https://github.com/user-attachments/assets/a5faa236-c1b9-4b77-8429-4f78f2aa771e)
+![Multi Agentic RAG](https://github.com/user-attachments/assets/05d3e3e3-0c72-41ef-8d45-66a63326ac2f)
+
 
 ## Installation & Setup
 1. Clone the Repository
