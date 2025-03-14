@@ -48,6 +48,10 @@ The architecture consists of the following key components:
 * **LangChain** (Text processing and chunking)
 * **FastAPI** (For API-based interaction)
 
+## Architecture Diagram
+
+![Multi Agentic RAG](https://github.com/user-attachments/assets/a5faa236-c1b9-4b77-8429-4f78f2aa771e)
+
 ## Installation & Setup
 1. Clone the Repository
    ```bash
